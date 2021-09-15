@@ -1,2 +1,0 @@
-# yafit-homework-
-horiseon
