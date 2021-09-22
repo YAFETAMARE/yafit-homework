@@ -1,0 +1,40 @@
+header{
+    font: bolder;
+    font-size: 50px;
+    color: cyan;
+    margin-left: 700px;
+}
+html {
+    min-height: 100%;
+    background-image: url(div.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+ }
+div{
+    color:blanchedalmond;
+}    
+h1{
+    color: white;   
+}
+
+p{
+    font-size: 24px;
+}
+section div p{
+    font-size: 50px;
+    color:yellowgreen
+
+}
+nav a{
+    color: yellowgreen;
+}
+section class{
+    font: 30px;
+}
+section class contact{
+    display: block ;
+}
+
+
+
